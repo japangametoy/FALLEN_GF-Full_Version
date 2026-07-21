@@ -1,0 +1,12 @@
+{
+    "name": "fallen gf",
+    "main": "index.html",
+    "chromium-args": "--force-color-profile=srgb --disable-devtools",
+    "window": {
+        "title": "Fallen GF full ver.",
+        "width": 1280,
+        "height": 720,
+        "position": "center",
+        "icon": "icon/icon.png"
+    }
+}
